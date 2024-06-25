@@ -1,3 +1,6 @@
+
+// instanciate the application
+
 new Vue ({
   el: '#app',
   data: {
